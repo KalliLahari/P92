@@ -1,0 +1,41 @@
+body
+{
+	background:darkblue;
+}
+
+.login_div1,.login_div2
+	{
+		background:teal;
+		padding: 30px;
+		float: none;
+		border-radius: 50px;
+        border: solid;
+        border-color:black;
+    
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid teal;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+#output h4{
+	color: black;
+}
+
+h4,span{
+	color: white;
+}
+
